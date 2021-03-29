@@ -1,0 +1,11 @@
+1 - Clonar o repositório do projeto
+2 - Abrir terminal dentro da pasta
+3 - Rodar o comando "composer install"
+4 - Rodar o comando "npm install"
+5 - Rodar o comando "npm run dev"
+6 - Criar um arquivo .env na pasta raiz e copiar todo o texto do arquivo .env.example para ele.
+7 - Rodar o comando "php artisan migrante"
+8 - Rodar o comando "php artisan db:seed"
+9 - Rodar o comando "php artisan key:generate"
+10 - Rodar o comando "php run serve"
+11 - Acessar URL, e testar o projeto.
